@@ -1,0 +1,3 @@
+Link Download Git: https://git-scm.com/downloads
+
+Git Bash - Terminal estendido para utilizar o uso do Git.
